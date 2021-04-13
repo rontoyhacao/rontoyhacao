@@ -11,7 +11,7 @@
 - 🤔 I’m looking for help with ... -->
 
 [![Email Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rptoyhacao@gmail.com)](mailto:rptoyhacao@gmail.com)
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=rontoyhacao)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=rontoyhacao.visitor-badge)
 
 ### Let's Connect!
 - [LinkedIn](https://www.linkedin.com/in/rontoyhacao)
