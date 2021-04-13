@@ -3,7 +3,8 @@
 [![Email Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rptoyhacao@gmail.com)](mailto:rptoyhacao@gmail.com)
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=rontoyhacao)
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=rontoyhacao&show_icons=true&hide_border=true">
+<!-- <img align="right" src="https://github-readme-stats.vercel.app/api?username=rontoyhacao&show_icons=true&hide_border=true"> -->
+
 <!--
 **rontoyhacao/rontoyhacao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
