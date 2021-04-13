@@ -7,7 +7,7 @@
 - 👯 I’m looking to collaborate on projects.
 - 💬 Ask me about how I started learning web development.
 - 😄 Pronouns: He/His
-- ⚡ Fun fact: If I could have any superpower, it would be to time travel. Not to fix mistakes but to reminisce the happy memories.
+- ⚡ Fun fact: If I could have any superpower, it would be to master Javascript lol.
 <!-- - 🤔 I’m looking for help with ... -->
 
 [![Email Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rptoyhacao@gmail.com)](mailto:rptoyhacao@gmail.com)
