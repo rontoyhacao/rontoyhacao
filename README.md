@@ -10,7 +10,7 @@
 <!-- - 😄 Pronouns: He/His
 - 🤔 I’m looking for help with ... -->
 
-[![Email Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rptoyhacao@gmail.com)](mailto:rptoyhacao@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-rptoyhacao@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rptoyhacao@gmail.com)](mailto:rptoyhacao@gmail.com)
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=rontoyhacao.visitor-badge)
 
 ### Let's Connect!
