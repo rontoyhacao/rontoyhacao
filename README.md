@@ -1,6 +1,6 @@
 # Hi there, I'm Ron 👋
 
-## I'm an aspiring front-end developer.
+## And I'm an aspiring front-end developer.
 
 - 🔭 I’m currently working on making many projects because repetition is the key in learning.
 - 🌱 I’m currently learning Javascript.
