@@ -1,4 +1,4 @@
-# Hi there 👋
+# Hi there, I'm Ron 👋
 
 ## I'm an aspiring front-end developer.
 
