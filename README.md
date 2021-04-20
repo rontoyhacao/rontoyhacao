@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning Javascript.
 - 👯 I’m looking to collaborate on projects.
 - 💬 Ask me about how I started learning web development.
-- ⚡ Fun fact: If I could have any superpower, it would be to master Javascript lol.
+- ⚡ Fun fact: If I could have any superpower, it would be to master Javascript. (yes you're right, i'm dead serious)
 <!-- - 😄 Pronouns: He/His
 - 🤔 I’m looking for help with ... -->
 
