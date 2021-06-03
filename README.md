@@ -1,6 +1,6 @@
 # Hi there, I'm Ron 👋
 
-## And I'm an aspiring front-end developer.
+## And I'm an aspiring UI/UX designer and front-end developer.
 
 - 🔭 I’m working on making many projects because repetition is the key.
 - 🌱 I’m currently learning Javascript and planning on picking up Vue.
