@@ -4,7 +4,7 @@
 
 - 👓 I'm also considering to be a UI/UX designer.
 - 🔭 I’m working on making many projects because repetition is the key.
-- 🌱 I’m currently learning Javascript and planning on picking up Vue.
+- 🌱 I’m currently learning Javascript and planning on picking up ReactJS.
 - 👯 I’m looking to collaborate on projects.
 - 💬 Ask me about how I started learning web development, maybe I could help you as well. ✨
 <!-- - 😄 Pronouns: He/His
