@@ -19,7 +19,7 @@
 - [Behance](https://www.behance.net/rontoyhacao)
 - [Frontend Mentor](https://www.frontendmentor.io/profile/rontoyhacao)
 
-#### My Socials
+#### My Socials @
 - [Instagram](https://www.instagram.com/rontoyhacao/)
 - [Twitter](https://twitter.com/rontoyhacao)
 <!-- <img align="right" src="https://github-readme-stats.vercel.app/api?username=rontoyhacao&show_icons=true&hide_border=true"> -->
