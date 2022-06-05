@@ -19,6 +19,7 @@
 - [Dribbble](https://dribbble.com/rontoyhacao)
 - [Behance](https://www.behance.net/rontoyhacao)
 - [Frontend Mentor](https://www.frontendmentor.io/profile/rontoyhacao)
+- [DEV Community](https://dev.to/rontoyhacao)
 
 #### My Socials @
 - [Instagram](https://www.instagram.com/rontoyhacao/)
