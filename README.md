@@ -14,7 +14,7 @@
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=rontoyhacao.visitor-badge)
 
 ### Let's Connect!
-- [Gmail](mailto:rptoyhacao@gmail.com)
+- [Gmail](mailto:paolotoyhacao@gmail.com)
 - [LinkedIn](https://www.linkedin.com/in/rontoyhacao)
 - [Dribbble](https://dribbble.com/rontoyhacao)
 - [Behance](https://www.behance.net/rontoyhacao)
